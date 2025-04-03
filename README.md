@@ -1,7 +1,7 @@
 # Graph-Search-Algorithms
-##A Python implementation of BFS, DFS, and Iterative Deepening DFS for graph traversal and pathfinding.
+## A Python implementation of BFS, DFS, and Iterative Deepening DFS for graph traversal and pathfinding.
 
-🚀# Features
+# 🚀 Features
 1.Breadth-First Search (BFS)
 
 2.Depth-First Search (DFS)
