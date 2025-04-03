@@ -13,15 +13,17 @@ These algorithms explore possible moves to solve the puzzle without using heuris
 ----
 
 # 🔢 What is the 8-Puzzle?
+
 The 8-Puzzle is a sliding tile puzzle consisting of a 3×3 grid with numbered tiles (1-8) and one empty space. The goal is to arrange the tiles in the correct order by sliding them into the empty space.
+
 -----------------
 
 ## Example:
 Initial State → Goal State
 
-4  7  8         _  7  8 
-3  6  5   ->    4  3  6  
-1  2  _         1  2  5  
+4  7  8         _  7  8 <br>
+3  6  5   ->    4  3  6 <br>
+1  2  _         1  2  5 <br>
 -----------------
 
 ## 🛠️ Implementation
@@ -30,6 +32,7 @@ Initial State → Goal State
 (ii) Moves (Up, Down, Left, Right) generate new states.
 
 (iii) The search algorithms explore the state space to find a solution.
+
 --------------------------------
 
 ## 🔍 Search Algorithms Used
