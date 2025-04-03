@@ -21,9 +21,9 @@ The 8-Puzzle is a sliding tile puzzle consisting of a 3×3 grid with numbered ti
 ## Example:
 Initial State → Goal State
 
-'''4  7  8         _  7  8 '''<br>
-'''3  6  5   ->    4  3  6 '''<br>
-'''1  2  _         1  2  5 '''<br>
+**4  7  8         _  7  8 ** <br>
+**3  6  5   ->    4  3  6 **<br>
+**1  2  _         1  2  5 **<br>
 
 -----------------
 
