@@ -24,6 +24,7 @@ Initial State → Goal State
 4  7  8         _  7  8 <br>
 3  6  5   ->    4  3  6 <br>
 1  2  _         1  2  5 <br>
+
 -----------------
 
 ## 🛠️ Implementation
@@ -41,4 +42,5 @@ Initial State → Goal State
 2.Depth-First Search (DFS): Explores deeper nodes first but may get stuck in loops.
 
 3.Iterative Deepening Depth-First Search (IDDFS): Combines DFS and BFS advantages.
+
 -------------------
