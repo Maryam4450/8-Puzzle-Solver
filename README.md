@@ -14,7 +14,7 @@ These algorithms explore possible moves to solve the puzzle without using heuris
 
 # 🔢 What is the 8-Puzzle?
 
-The 8-Puzzle is a sliding tile puzzle consisting of a 3×3 grid with numbered tiles (1-8) and one empty space. The goal is to arrange the tiles in the correct order by sliding them into the empty space.
+The 8-Puzzle is a sliding tile puzzle consisting of a 3×3 grid with numbered tiles (1-8) and one empty space. The goal is to arrange the tiles in the correct order by sliding them into the empty  space.
 
 -----------------
 
